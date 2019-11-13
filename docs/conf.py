@@ -256,3 +256,7 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+def setup(app):
+    #app.add_stylesheet('css/custom.css')
+    app.add_stylesheet('theme_override.css')
+    app.add_javascript('docs-custom.js')
