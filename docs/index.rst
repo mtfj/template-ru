@@ -16,7 +16,7 @@ Contents:
 
 
 
-Indices and tables
+Текст на русском
 ==================
 
 * :ref:`genindex`
